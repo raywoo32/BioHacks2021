@@ -6,7 +6,7 @@
 
 Data was all downloaded March 13th 2021. The links can be found below. 
 
-[Covid Long term Care Data](https://data.ontario.ca/en/dataset/long-term-care-home-covid-19-data)
-[Population density](https://simplemaps.com/data/canada-cities)
-[LTC homes by ID](http://publicreporting.ltchomes.net/en-ca/homeprofile.aspx?Home=2301&tab=1)
-[Inspection Results](https://apps.mohltc.ca/ltchomes/detail.php?id=2728&lang=en)
+1. [Covid Long term Care Data](https://data.ontario.ca/en/dataset/long-term-care-home-covid-19-data)
+2. [Population density](https://simplemaps.com/data/canada-cities)
+3. [LTC homes by ID](http://publicreporting.ltchomes.net/en-ca/homeprofile.aspx?Home=2301&tab=1)
+4. [Inspection Results](https://apps.mohltc.ca/ltchomes/detail.php?id=2728&lang=en)
