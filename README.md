@@ -1,10 +1,10 @@
 # BioHacks2021
 
-## Project Description 
-
-
 ### File Breakdown: 
-
+ 
+- regressionGenerate.R, make regression with parsed data in ./Data
+- InitialDataCombineAndExplore.R, data cleaning and parsing
+- BioHacks2021_WebScraper.ipynb, web-scraping
 
 ### Data Sources: 
 
@@ -15,4 +15,3 @@ Data was all downloaded March 13th 2021. The links can be found below.
 3. [LTC homes by ID](http://publicreporting.ltchomes.net/en-ca/homeprofile.aspx?Home=2301&tab=1)
 4. [Inspection Results](https://apps.mohltc.ca/ltchomes/detail.php?id=2728&lang=en)
 
-#
