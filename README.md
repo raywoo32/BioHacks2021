@@ -25,5 +25,7 @@ Data was all downloaded March 13th 2021. The links can be found below.
 6. [LTC performance](https://www.hqontario.ca/System-Performance/Long-Term-Care-Home-Performance/Falls)
 
 [Actual data to pull](https://www.hqontario.ca/System-Performance/Long-Term-Care-Home-Performance) 
+[Scraping](https://www.freecodecamp.org/news/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86/)
+[Finding the API](http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/) 
 
 [Similar Study](https://www.cmaj.ca/content/192/33/E946.short)
