@@ -29,3 +29,4 @@ Data was all downloaded March 13th 2021. The links can be found below.
 [Finding the API](http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/) 
 
 [Similar Study](https://www.cmaj.ca/content/192/33/E946.short)
+[Data by public health unit](https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario-by-public-health-unit-phu)
