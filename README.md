@@ -15,3 +15,15 @@ Data was all downloaded March 13th 2021. The links can be found below.
 3. [LTC homes by ID](http://publicreporting.ltchomes.net/en-ca/homeprofile.aspx?Home=2301&tab=1)
 4. [Inspection Results](https://apps.mohltc.ca/ltchomes/detail.php?id=2728&lang=en)
 
+#### To look into:
+
+1. [Dementia in ltc](https://www.cihi.ca/en/dementia-in-canada/dementia-care-across-the-health-system/dementia-in-long-term-care)
+2. [Pallative Care](https://www.cihi.ca/en/dementia-in-canada/spotlight-on-dementia-issues/palliative-and-end-of-life-care)
+3. [Drugs in LTC](https://www.cihi.ca/sites/default/files/antipsychotics_in_ltc_publicsummary_en_0.pdf)
+4. [Patient experience](https://www.cihi.ca/sites/default/files/patient_reportedexpmeasuresltc-en_web_1.pdf) 
+5. [Wait times](https://www.hqontario.ca/System-Performance/Long-Term-Care-Home-Performance/Wait-Times) 
+6. [LTC performance](https://www.hqontario.ca/System-Performance/Long-Term-Care-Home-Performance/Falls)
+
+[Actual data to pull](https://www.hqontario.ca/System-Performance/Long-Term-Care-Home-Performance) 
+
+[Similar Study](https://www.cmaj.ca/content/192/33/E946.short)
